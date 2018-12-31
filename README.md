@@ -21,3 +21,34 @@
 # # # # # 
 
 ```
+
+# Dont use 
+
+```
+console.log("
+ # # # # #  \n 
+# # # # #  \n
+ # # # # #  \n
+# # # # #  \n
+ # # # # #  \n
+# # # # # \n
+ # # # # #  \n
+# # # # #  \n
+ # # # # #  \n
+# # # # #  \n
+")
+
+or 
+
+console.log("# # # # #")
+console.log(" # # # # #")
+console.log("# # # # #")
+console.log(" # # # # #")
+console.log("# # # # #")
+console.log(" # # # # #")
+console.log("# # # # #")
+console.log(" # # # # #")
+console.log("# # # # #")
+console.log(" # # # # #")
+
+```
