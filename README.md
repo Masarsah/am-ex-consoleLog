@@ -52,3 +52,7 @@ console.log("# # # # #")
 console.log(" # # # # #")
 
 ```
+
+
+# Bonus 
+use console.log only once 
